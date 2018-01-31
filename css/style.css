@@ -29,3 +29,8 @@ nav {
   font-family: 'Exo 2', sans-serif;
   color: #ffffff;
 }
+
+body {
+  padding: 60px 0px 0px 0px;
+  z-index: 0;
+}
