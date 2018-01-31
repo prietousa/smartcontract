@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "author": "Sergio Prieto",
   "license": "ISC",
@@ -20,5 +20,9 @@
   "homepage": "https://github.com/prietousa/smartcontract#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "install": "^0.10.4"
   }
 }
